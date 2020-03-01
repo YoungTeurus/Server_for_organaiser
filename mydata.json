@@ -1,0 +1,196 @@
+{
+    "notes": [
+        {
+            "title": "My title2",
+            "text": "My text"
+        },
+        {
+            "title": "My title35",
+            "text": "My text"
+        }
+    ],
+    "schedule": {
+        "\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a": [
+            {
+                "number": "1",
+                "time": "8.00-9.35",
+                "name": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+                "type": "always",
+                "teacher": "prepod1",
+                "cabinet": "315"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+                "type": "odd",
+                "teacher": "prepod2",
+                "cabinet": "215"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043b\u0435\u043a\u0446\u0438\u044f",
+                "type": "even",
+                "teacher": "prepod2",
+                "cabinet": "115"
+            }
+        ],
+        "\u0412\u0442\u043e\u0440\u043d\u0438\u043a": [
+            {
+                "number": "1",
+                "time": "8.00-9.35",
+                "name": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+                "type": "always",
+                "teacher": "prepod1",
+                "cabinet": "315"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+                "type": "odd",
+                "teacher": "prepod2",
+                "cabinet": "215"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043b\u0435\u043a\u0446\u0438\u044f",
+                "type": "even",
+                "teacher": "prepod2",
+                "cabinet": "115"
+            }
+        ],
+        "\u0421\u0440\u0435\u0434\u0430": [
+            {
+                "number": "1",
+                "time": "8.00-9.35",
+                "name": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+                "type": "always",
+                "teacher": "prepod1",
+                "cabinet": "315"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+                "type": "odd",
+                "teacher": "prepod2",
+                "cabinet": "215"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043b\u0435\u043a\u0446\u0438\u044f",
+                "type": "even",
+                "teacher": "prepod2",
+                "cabinet": "115"
+            }
+        ],
+        "\u0427\u0435\u0442\u0432\u0435\u0440\u0433": [
+            {
+                "number": "1",
+                "time": "8.00-9.35",
+                "name": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+                "type": "always",
+                "teacher": "prepod1",
+                "cabinet": "315"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+                "type": "odd",
+                "teacher": "prepod2",
+                "cabinet": "215"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043b\u0435\u043a\u0446\u0438\u044f",
+                "type": "even",
+                "teacher": "prepod2",
+                "cabinet": "115"
+            }
+        ],
+        "\u041f\u044f\u0442\u043d\u0438\u0446\u0430": [
+            {
+                "number": "1",
+                "time": "8.00-9.35",
+                "name": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+                "type": "always",
+                "teacher": "prepod1",
+                "cabinet": "315"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+                "type": "odd",
+                "teacher": "prepod2",
+                "cabinet": "215"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043b\u0435\u043a\u0446\u0438\u044f",
+                "type": "even",
+                "teacher": "prepod2",
+                "cabinet": "115"
+            }
+        ],
+        "\u0421\u0443\u0431\u0431\u043e\u0442\u0430": [
+            {
+                "number": "1",
+                "time": "8.00-9.35",
+                "name": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u043a\u0430",
+                "type": "always",
+                "teacher": "prepod1",
+                "cabinet": "315"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+                "type": "odd",
+                "teacher": "prepod2",
+                "cabinet": "215"
+            },
+            {
+                "number": "2",
+                "time": "9.45-11.20",
+                "name": "\u0424\u0438\u0437\u0438\u043a\u0430 \u043b\u0435\u043a\u0446\u0438\u044f",
+                "type": "even",
+                "teacher": "prepod2",
+                "cabinet": "115"
+            }
+        ]
+    },
+    "tasks": [
+        {
+            "title": "addsad",
+            "date": "01.01.2020",
+            "done": false,
+            "img_id": 1
+        },
+        {
+            "title": "Priyti na hackaton",
+            "date": "28.02.2020",
+            "done": true,
+            "img_id": 2
+        },
+        {
+            "title": "\u041a\u0440\u0443\u0442\u0430\u044f \u0437\u0430\u0434\u0430\u0447\u0430",
+            "date": "28.02.2020",
+            "done": false,
+            "img_id": 1
+        },
+        {
+            "title": "Rgr po VSEMU",
+            "date": "03.03.2020",
+            "done": false,
+            "img_id": 1
+        }
+    ]
+}
